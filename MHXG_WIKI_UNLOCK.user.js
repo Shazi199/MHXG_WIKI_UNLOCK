@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MHXG WIKI ReadOnly Unlock
 // @namespace    https://github.com/Shazi199/
-// @version      0.0.3
+// @version      0.0.4
 // @description  Unlock MHXG WIKI's right click and select.
 // @author       Shazi199
 // @license      MIT License
