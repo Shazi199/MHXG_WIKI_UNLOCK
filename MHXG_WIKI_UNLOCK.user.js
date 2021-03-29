@@ -7,6 +7,7 @@
 // @license      MIT License
 // @match        http://wiki.mhxg.org/*
 // @match        http://mhwg.org/*
+// @match        https://mhrise.com/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-1.11.0.min.js
 // ==/UserScript==
